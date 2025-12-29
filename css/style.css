@@ -66,10 +66,10 @@ section h2 {
 
 /* ===== PORTFOLIO IMAGE ===== */
 .portfolio-item img {
-    width: 100%;          /* Foto menyesuaikan lebar card */
+    width: 100%;   
     max-width: 100%;
-    border-radius: 6px;   /* Sudut lembut */
-    margin-bottom: 15px; /* Jarak ke teks */
+    border-radius: 6px;  
+    margin-bottom: 15px; 
     display: block;
 }
 
